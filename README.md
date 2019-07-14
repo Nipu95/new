@@ -1,4 +1,5 @@
-# new
-my first project
+java
+php
+mysql
+windows, mac os
 
-thankyou
